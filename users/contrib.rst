@@ -157,6 +157,13 @@ FreshPorts: `syncthing <https://www.freshports.org/net/syncthing>`__
 macOS
 ~~~~~
 
+.. note::
+   Using ``brew install --cask syncthing`` will install ``syncthing-macos``.
+
+Homebrew: `syncthing <https://formulae.brew.sh/formula/syncthing>`__ ::
+
+    $ brew install syncthing
+    
 MacPorts: `syncthing <https://ports.macports.org/port/syncthing/>`__ ::
 
     $ sudo port install syncthing
